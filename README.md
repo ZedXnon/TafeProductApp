@@ -1,1 +1,1 @@
-“This application calculates the total price of the product
+This application calculates the total price of the product
